@@ -1,5 +1,5 @@
 public class Class1 {
     public void displayMessage() {
-        System.out.println("Hello from Class1!");
+        System.out.println("IMCS University of Sindh!");
     }
 }
