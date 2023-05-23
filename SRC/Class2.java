@@ -1,6 +1,6 @@
 public class Class2 {
     public void displayMessage() {
-        System.out.println("Hello from Class2!");
+        System.out.println("Software Engneering Project!");
     }
 
     public static void main(String[] args) {
